@@ -4,7 +4,7 @@ This project detects human emotions from facial images using a CNN model trained
 
 ## 🧠 Model
 - Built using TensorFlow & Keras
-- 7 emotion classes:
+- Have 7 emotion classes:
   - Angry
   - Disgust
   - Fear
@@ -26,6 +26,9 @@ Deployed using HuggingFace Spaces + Gradio
 - TensorFlow
 - OpenCV
 - Gradio
+
+## 📜 License
+This project is licensed under the MIT License.
 
 ---
 
